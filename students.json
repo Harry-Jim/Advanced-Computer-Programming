@@ -1,0 +1,95 @@
+{
+    "students": [
+        {
+            "id": "25-00699",
+            "name": "Hurvey Leeuwenhook Ballelos",
+            "program": "BS Computer Science",
+            "average": "92.33",
+            "remarks": "Pass"
+        },
+        {
+            "id": "25-00234",
+            "name": "Margaret B. Maullon",
+            "program": "BS Civil Engineering",
+            "average": "97.5",
+            "remarks": "Pass"
+        },
+        {
+            "id": "25-00677",
+            "name": "Ni\u00f1a Mariz A. Hernandez",
+            "program": "BS Tourism",
+            "average": "94.0",
+            "remarks": "Pass"
+        },
+        {
+            "id": "25-00345",
+            "name": "Kim Jasmine Cabral",
+            "program": "BS Architecture",
+            "average": "73.5",
+            "remarks": "Fail"
+        },
+        {
+            "id": "25-11630",
+            "name": "Caryne Zhane P. Jalocon",
+            "program": "BS Information Technology",
+            "average": "94.5",
+            "remarks": "Pass"
+        }
+    ],
+    "grades": {
+        "25-00699": [
+            {
+                "subject": "Information Management",
+                "grade": 94
+            },
+            {
+                "subject": "Computer Networking",
+                "grade": 98
+            },
+            {
+                "subject": "Web Development",
+                "grade": 85
+            }
+        ],
+        "25-00234": [
+            {
+                "subject": "Differential Equation",
+                "grade": 98
+            },
+            {
+                "subject": "Engineering Data Analysis",
+                "grade": 97
+            }
+        ],
+        "25-00677": [
+            {
+                "subject": "Tour Guiding",
+                "grade": 95
+            },
+            {
+                "subject": "Rhythmic Activities",
+                "grade": 93
+            }
+        ],
+        "25-00345": [
+            {
+                "subject": "Fundamentals of Physics",
+                "grade": 75
+            },
+            {
+                "subject": "Architectural Interiors",
+                "grade": 72
+            }
+        ],
+        "25-11630": [
+            {
+                "subject": "Data Structure and Algorithm",
+                "grade": 94
+            },
+            {
+                "subject": "Sciene, Technology, and Society",
+                "grade": 95
+            }
+        ]
+    }
+}
